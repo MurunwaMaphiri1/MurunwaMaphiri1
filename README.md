@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Movie reservation system**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#** and **Java**
 
 <p align="left">
 </p>
