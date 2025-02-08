@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murunwa Maphiri</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 - 🔭 I’m currently working on **Movie reservation system**
 
