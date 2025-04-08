@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Murunwa Maphiri</h1>
+<h1 align="center">Hi 👋, I'm Murunwa</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **Movie reservation system**
+- 🔭 I’m currently working on **Movie reservation system*
 
 - 🌱 I’m currently learning **C#** and **Java**
 
