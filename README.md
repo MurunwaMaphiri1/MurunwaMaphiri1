@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **NextJS** and **Java**
+- 🌱 I’m currently learning **Java**
 
 <p align="left">
 </p>
