@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,html,css,nodejs)](https://skillicons.dev)
 
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,spring,express,tailwind,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,express,tailwind,react,nextjs)](https://skillicons.dev)
 
 ### Development Tools
 [![My Skills](https://skillicons.dev/icons?i=github,git,postman,postgres,mongodb)](https://skillicons.dev)
