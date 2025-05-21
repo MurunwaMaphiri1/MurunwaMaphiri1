@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=dotnet,express,tailwind,react,nextjs)](https://skillicons.dev)
 
 ### Development Tools
-[![My Skills](https://skillicons.dev/icons?i=github,git,postman,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,postman,postgres,sqlserver)](https://skillicons.dev)
 
 ### IDE's
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,rider)](https://skillicons.dev)
