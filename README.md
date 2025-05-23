@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Azure**
 
 - Hobbies🎮 - programming, anime, gaming and football
 
