@@ -10,9 +10,9 @@
   </pre>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **Crazy 8's game**
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m plan on learning **Azure**
 
 - Hobbies🎮 - programming, anime, gaming and football
 
