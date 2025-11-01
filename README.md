@@ -12,14 +12,15 @@
 
 - 🔭 I’m currently working on **Crazy 8's game**
 
-- 🌱 I’m plan on learning **Azure**
+- 🌱 I plan on learning **Azure**
 
-- Hobbies🎮 - programming, anime, gaming and football
+- 🎮 - programming, anime, gaming and watching football
 
 
 
 ### Languages and Runtimes
-[![My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,html,css,nodejs)](https://skillicons.dev)
+[![
+My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,html,css,nodejs)](https://skillicons.dev)
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=dotnet,express,tailwind,react,nextjs)](https://skillicons.dev)
