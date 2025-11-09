@@ -10,8 +10,6 @@
   </pre>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **Crazy 8's game**
-
 - 🌱 I plan on learning **Azure**
 
 - 🎮 - programming, anime, gaming and watching football
