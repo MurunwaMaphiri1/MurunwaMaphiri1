@@ -8,13 +8,6 @@
   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝  ╚═╝
                                                                    
   </pre>
-<h3 align="center">Fullstack Developer</h3>
-
-- 🌱 I plan on learning **Azure**
-
-- 🎮 - programming, anime, gaming and watching football
-
-
 
 ### Languages and Runtimes
 [![
@@ -25,6 +18,7 @@ My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css,nodejs)](https://ski
 
 ### Development Tools
 [![My Skills](https://skillicons.dev/icons?i=github,git,postman,postgres,sqlserver)](https://skillicons.dev)
+
 
 ### IDE's
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,rider)](https://skillicons.dev)
