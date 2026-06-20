@@ -7,6 +7,8 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝  ╚═╝ │                                                                
   </pre>
 
+<p>🌱 I’m currently learning AWS </p>
+
 ### Languages and Runtimes
 [![
 My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,html,css,nodejs)](https://skillicons.dev)
