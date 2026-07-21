@@ -7,7 +7,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝  ╚═╝ │                                                                
   </pre>
 
-<p>🌱 I’m currently learning AWS </p>
+<p>🌱 I’m currently learning Terraform </p>
 
 ### Languages and Runtimes
 [![
