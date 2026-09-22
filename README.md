@@ -18,7 +18,7 @@ My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,html,css,nodejs)](https:
 [![My Skills](https://skillicons.dev/icons?i=dotnet,express,tailwind,react,nextjs)](https://skillicons.dev)
 
 ### Development Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,github,git,postman,postgres,docker,sqlserver)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,github,git,postman,postgres,docker,rabbitmq)](https://skillicons.dev)
 
 
 ### IDE's
