@@ -19,7 +19,3 @@ My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,html,css,nodejs)](https:
 
 ### Development Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,github,git,postman,postgres,docker,rabbitmq,terraform)](https://skillicons.dev)
-
-
-### IDE's
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,rider)](https://skillicons.dev)
